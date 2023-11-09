@@ -1,0 +1,372 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+}
+.container-2{
+    margin-left: auto;
+    margin-right: auto;
+    height: 800px;
+}
+img{
+    position: relative;
+    top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 90px;
+}
+ol li{
+    list-style-type: none;
+    float: left;
+    position: relative;
+    left: 200px;
+    bottom: 40px;
+    padding-left: 140px;
+    text-decoration: none;
+    color: black;
+}
+.text{
+    display: flex;
+    position: relative;
+    bottom: 20px;
+}
+span img{
+    width: 1200px;
+    margin-bottom: 10px;
+}
+h5{
+    position: relative;
+    left: 120px;
+    top: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#first{
+    position: relative;
+    font-size: 22px;
+    left: 50px;
+    bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    float: left;
+    margin-left: 70px;
+    margin-bottom: -30px;
+}
+#second{
+    position: relative;
+    font-size: 22px;
+    left: 70px;
+    bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    float: left;
+    margin-left: 70px;
+    margin-bottom: -30px;
+}
+h4{
+  position: relative;
+  left: 704px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  bottom: 40px;
+}
+hr{
+    margin-top:29px;
+    position: relative;
+    bottom: 20px;
+    left: 21px;
+    width: 1200px;
+    border-style: dashed;
+}
+h2{
+    position: relative;
+    bottom: 10px;
+    left: 119px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.flex-container{
+    width: 100%;
+    height : auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+.flex-box{
+    width: 100px;
+    font-size: 20px;
+    background-color: black;
+    color: #fff;
+   height: 100px;
+   text-align: center;
+    margin: 70px;
+    margin-bottom: -30px;
+    position: relative;
+    bottom: 60px;
+    left: 79px;
+    height: 100px;
+    line-height: 100px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#That{
+    position: relative;
+    left: 120px;
+    bottom: 22px;
+    font-size: 23px;
+    right: 70px;
+}
+#text{
+    position: relative;
+    left:176px;
+    margin-left: -52px;
+    font-size: 20px;
+    position: relative;
+    bottom:30px;
+}
+#No{
+    position: relative;
+    left: 450px;
+    font-size: 23px;
+    bottom: 190px;
+}
+#no{
+    position: relative;
+    left: 450px;
+    font-size: 20px;
+    bottom: 194px;
+}
+#Moon{
+    position: relative;
+    left: 870px;
+    font-size: 20px;
+    bottom: 346px;
+}
+#moon{
+    position: relative;
+    left: 870px;
+    bottom: 350px;
+    font-size: 20px;
+}
+#container{
+    background-color: black;
+    position: relative;
+    bottom: 330px;
+    left: 86px;
+    width: 1210px;
+    height: 80px;
+}
+body{
+    overflow-x: hidden;
+}
+#Home{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    padding-right: 100%;
+    color: #fff;
+}
+#About{
+    position: relative;
+    top: 8px;
+    padding-right: 100%;
+    color: #fff;
+    left: 150px;
+}
+#Products{
+    position: relative;
+    padding-right: 100%;
+    color: #fff;
+    left: 300px;
+    bottom: 27px;
+}
+#Blog{
+    position: relative;
+    padding-right: 100%;
+    color: #fff;
+    left: 470px;
+    bottom: 60px;
+}
+#Contact{
+    position: relative;
+    padding-right: 100%;
+    color: #fff;
+    left: 600px;
+    bottom: 94px;
+}
+
+
+#about{
+    position: relative;
+    top: 10px;
+   left: 120px;
+   font-family: sans-serif;
+}
+#leverage{
+    position: relative;
+    top: 10px;
+    left: 120px;
+    font-size: 25px;
+}
+#line{
+    position: relative;
+    top: 3px;
+}
+#strategy{
+    margin-top: 50px;
+    left: 89px;
+    font-family: sans-serif;
+}
+#iterative{
+  margin-left: 90px;
+  margin-top: -50px;
+  font-size: 25px;
+}
+data img{
+    width: 550px;
+}
+#btn1{
+    width: 120px;
+    height: 36px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-left: 90px;
+    cursor: pointer;
+}
+#rule{
+    width: 557px;
+    left: -310px;
+    bottom: 10px;
+}
+li{
+    list-style-type: none;
+}
+li img{
+    position: relative;
+    left: 680px;
+  top: -584px;
+  width: 580px;
+  height: 350px;
+}
+#work{
+    position: relative;
+    bottom: 620px;
+    left: 680px;
+    font-family: sans-serif;
+}
+#how{
+    position: relative;
+    top: -630px;
+    left: 680px;
+  font-size: 25px;
+}
+#btn2{
+    width: 120px;
+    height: 36px;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: relative;
+    top: -633px;
+    left: 680px;
+}
+#Line{
+    width: 576px;
+    position: relative;
+    top: -639px;
+    left: 303px;
+}
+ol img{
+    position: relative;
+    top: -600px;
+    left: 50px;
+  width: 550px;
+  height: 350px;
+  margin-bottom: 40px;
+}
+#Places{
+    font-family: sans-serif;
+    position: relative;
+    top: -650px;
+    left: 90px;
+}
+#Work{
+    position: relative;
+    bottom: 660px;
+    left: 90px;
+    font-size: 25px;
+}
+#btn3{
+    width: 120px;
+    height: 36px;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: relative;
+    top: -660px;
+    left: 90px;
+}
+#Rule{
+    width: 546px;
+    position: relative;
+    top: -669px;
+   margin-left: 69px;
+}
+center img{
+     position: relative;
+    top: -1248px;
+    left: 300px;
+  width: 550px;
+  height: 350px;
+  margin-bottom: 40px;
+}
+#collaboration{
+    font-family: sans-serif;
+    position: relative;
+    top: -1300px;
+    left: 690px;
+}
+#Collaboration{
+    position: relative;
+    bottom: 1310px;
+    left: 690px;
+    font-size: 25px;
+}
+#btn4{
+ width: 120px;
+    height: 36px;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: relative;
+    top: -1308px;
+    left: 690px;
+}
+#last{
+    width: 546px;
+    position: relative;
+    top: -1318px;
+   margin-left: 670px;
+}
+#let{
+    position: relative;
+    bottom: 1300px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+#Together{
+    position: relative;
+    bottom: 1300px;
+    left: 90px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+#container-3{
+    background-color: black;
+    position: relative;
+    bottom: 1300px;
+    left: 86px;
+    width: 1200px;
+    height: 100px;
+}
+main img{
+    width: 1170px;
+    margin-bottom: 10px;
